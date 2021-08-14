@@ -115,7 +115,7 @@ A <em><strong>cat</strong></em> meow
 
 ### Nested blockquote - Các block lồng nhau
 
-### Markdown
+##### Markdown
 ```
 > Quote ở tầng 1
 >
@@ -314,7 +314,7 @@ Tại terminal ấn <code>nano</code>
 Tại terminal ấn <code>nano</code>
 
 ### Escaping Backticks
-### Markdown
+##### Markdown
 ```
 ``Sử dụng `code` trong markdown``
 ```
@@ -390,12 +390,12 @@ Blog tôi đang viết tên là  <a href="https://batdaulaptrinh.com" title=" Th
 
 ##### HTML
 ```
-Đọc tổng kết <a href="#tổng kết"><code>code</code></a>
+Đọc tổng kết <a href="#tổng kết"><code>ở đây</code></a>
 ```
 
 ##### Kết quả
 
-See the section on <a href="#code"><code>code</code></a>
+Đọc tổng kết <a href="#t%E1%BB%95ng-k%E1%BA%BFt"><code>ở đây</code></a>
 
 ### Formatting the First Part of the Link
 
@@ -466,7 +466,7 @@ Có thể bỏ qua các ký tự khác nữa
 
 ### Tổng kết
 
-### Bảng tóm tắt
+##### Bảng tóm tắt
 
 |Markdown           |HTML      |Kết quả|
 |-------------------|-----------------------|-------------------|
@@ -493,6 +493,7 @@ Có thể bỏ qua các ký tự khác nữa
 |\```fenced code\```         |```<pre>fenced code</pre>```| <pre>fenced code</pre>|
 |\\# h1         |```None```| \# h1|
 |This \**word** is bold. This &lt;em&gt;word&lt;/em&gt; is italic.    |```None```| This **word** is bold. This <em>word</em> is italic.|
-### Nhận xét
+##### Nhận xét
 
 Và trên đây là một số syntax cơ bản để sử dụng markdown. Và nếu chỉ sử dụng ở múc cơ bản thì markdown có ưu thế tuyệt đối. Nhưng nếu muốn cusotm được tốt hơn thì HTMl lại hỗ trợ đa dạng hơn. Ví dụ font chữ, màu sắc, hoặc là chỉnh sửa kích cỡ hình ảnh hiển thị.
+<p>Bạn có thể tải bài viết này dưới dạng Markdown từ link <a href="https://github.com/Huythanh0x/Test_markdown_with_git" target="_blank" rel="noreferrer noopener">https://github.com/Huythanh0x/Test_markdown_with_git</a></p>
